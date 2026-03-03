@@ -20,7 +20,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 *   [Git](https://git-scm.com)
 *   [Node.js](https://nodejs.org) ou [Python](https://www.python.org)
 
-## Instalação e Execução
+<!--## Instalação e Execução
 
 1.  **Clone o repositório:**
     ```bash
@@ -48,7 +48,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
     # Caso seja Python:
     python main.py
-    ```
+    ```-->!
 
 ## 👥 Integrantes do Grupo
 
