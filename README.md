@@ -52,9 +52,14 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 ## 👥 Integrantes do Grupo
 
-*   [Integrante 1]
-*   [Integrante 2]
-*   [Integrante 3]
+*   Eryka Lima da Silva.
+*   José Daniel Alicrim Braga.
+*   Marilyn Gabriela Aquise Antinapa.
+*   Melissa Freitas Ribeiro.
+*   Mickaela Cassiane Rodrigues.
+*   Raíssa Maria do Nascimento.
+*   Sophia Vieira Menezes.
+*   Yuri Garcia Pardinho.
 
 ## 📄 Licença
 
