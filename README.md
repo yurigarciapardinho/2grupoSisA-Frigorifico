@@ -16,7 +16,8 @@ Git
  Instalação e Execução
 Clone o repositório:
 bash
-git clone [link](https://github.com/yurigarciapardinho/2grupoSisA-Frigorifico)
+git clone https://github.com/yurigarciapardinho/2grupoSisA-Frigorifico
+[link](https://github.com/yurigarciapardinho/2grupoSisA-Frigorifico)
 
 Acesse a pasta do projeto:
 bash
